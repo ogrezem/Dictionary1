@@ -7,9 +7,6 @@ using System.Threading.Tasks;
 using System.Windows;
 
 namespace TestTriggers1 {
-	/// <summary>
-	/// Логика взаимодействия для App.xaml
-	/// </summary>
 	public partial class App : Application {
 	}
 }
